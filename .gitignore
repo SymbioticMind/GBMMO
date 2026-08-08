@@ -1,0 +1,56 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build output
+build/
+dist/
+bin/
+obj/
+
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# Emulator files
+saves/
+sav/
+states/
+
+# ROM files
+*.gba
+*.gb
+*.gbc
+*.zip
+*.7z
+*.rar
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated files
+generated/
